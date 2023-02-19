@@ -1,0 +1,10 @@
+.register_container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: radial-gradient(#47aeff 2px, transparent 2px);
+  background-size: 32px 32px;
+  background-color: #ffffff;
+}

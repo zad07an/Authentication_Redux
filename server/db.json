@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "fname": "Aram",
+      "lname": "Zadoyan",
+      "email": "zadoyanaram@gmail.com",
+      "password": "Aram111",
+      "id": 1
+    },
+    {
+      "fname": "Aram",
+      "lname": "Zadoyan",
+      "email": "zadoyan@gmail.com",
+      "password": "Aram111",
+      "id": 2
+    },
+    {
+      "fname": "Aram",
+      "lname": "Zadoyan",
+      "email": "aram@gmail.com",
+      "password": "Aram123",
+      "id": 3
+    }
+  ]
+}
